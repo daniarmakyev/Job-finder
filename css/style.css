@@ -1,0 +1,200 @@
+.body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #767575;
+}
+
+.bg-green {
+    background-color: #5bbc2e;
+}
+
+.nav-link {
+    font-size: 13px;
+}
+
+.main-block {
+    padding-top: 340px;
+    padding-bottom: 100px;
+    background: url(../img/main-pic.jpg) 50% / cover no-repeat;
+}
+
+.text-green {
+    color: #5bbc2e;
+}
+
+.job-services {
+    background-color: #f9f9f9;
+}
+
+.slogan {
+    max-width: 650px;
+    margin: 1em auto;
+    font-size: 48px;
+}
+
+@media screen and (max-width: 450px) {
+    .slogan {
+        font-size:30px;
+    }
+    .job-board {
+        font-size: 30px !important;
+    }
+}
+
+.job-board {
+    margin: 0;
+    padding-top: 91px;
+    font-size: 48px;
+}
+
+.job-bottom {
+    word-wrap: normal;
+    max-width: 770px;
+    margin: 27px auto 70px;
+    font-size: 12px;
+}
+
+.way {
+    background: url(../img/way.png) no-repeat;
+    background-position: 45% 7%;
+    padding-top: 55px;
+}
+
+.paper {
+    background: url(../img/sheet.png) no-repeat;
+    background-position: 45% -1%;
+
+}
+
+.strong {
+    background: url(../img/home.png) no-repeat;
+    background-position: 45% -1%;
+}
+
+.sup {
+    background: url(../img/humans.png) no-repeat;
+    background-position: 45% -1%;
+}
+
+.services-block {
+    padding-bottom: 40px;
+}
+
+.text-grey {
+    font-size: 12px;
+    color: #515151;
+    line-height: 24px;
+}
+
+.perfect-block {
+    background: #fff;
+}
+
+.perfect-block img {
+    float: left;
+    width: 100%;
+    max-width: 360px;
+}
+
+.perfect-block h4 {
+    font-size: 30px;
+    padding-top: 103px;
+
+}
+
+.perfect-block p {
+    max-width: 450px;
+    float: right;
+    word-wrap: normal;
+    padding-bottom: 162px;
+}
+
+@include media-breakpoint-down(md) {
+    .perfect-block img {
+        width: 100%;
+    }
+}
+
+.talents-block {
+    padding-top: 200px;
+    position: relative;
+}
+
+
+.main-list li {
+    padding-left: 10px;
+    background-image: url(../img/marker.png);
+    background-repeat: no-repeat;
+    background-position: 0 8px;
+    padding-left: 20px;
+    display: block;
+}
+
+.main-list {
+    max-width: 450px;
+    margin: 0;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
+.grey-text {
+    color: #8d8d8d;
+    font-size: 30px;
+}
+
+.main-text {
+    max-width: 480px;
+}
+
+.talents-block img {
+    margin-top: -100px;
+    display: inline-block;
+}
+
+.btn1 {
+    margin-left: 33%;
+    display: inline-block;
+}
+
+.card-text {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #4b4b4b;
+}
+
+.btn-purpl {
+    background-color: #c42fc9;
+    border: none;
+    font-size: 12px;
+}
+
+.btn-green {
+    background-color: #5bbc2e;
+    border: none;
+    font-size: 12px;
+}
+
+.btn-blue {
+    background-color: #2ca7e0;
+    border: none;
+    font-size: 12px;
+}
+
+.btn-yelow {
+    background-color: #dac00e;
+    border: none;
+    font-size: 12px;
+}
+
+.footer {
+    background-color: #141414;
+    height: 88px;
+}
+
+.footer p{
+    color: #e0e0e0;
+    font-size: 11px;
+    padding-top: 44px;
+    padding-left: 50px;
+}
