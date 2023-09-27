@@ -1,14 +1,13 @@
 # Job Finder
-Сайт предлагает краткий список квалифицированных фрилансеров мгновенно, воспользовавшись нашими методами в области найма и технологией подбора персонала. Проведите онлайн-собеседование с избранными и наймите их одним нажатием кнопки.
-
-
+Сайт предлагает краткий список квалифицированных фрилансеров мгновенно, воспользовавшись  методами в области найма и технологией подбора персонала. Проведите онлайн-собеседование с избранными и наймите их одним нажатием кнопки.
+Сайт адаптивный на разные размеры экрана.
 ## Технологии
-- [HTML5]
-- [CSS]
-- [Bootstrap 5.3.2]
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Bootstrap
-В headere был использован bootstrap, при уменьшении разрешения на экране выходит кнопка с навигацией. 
+В headere был использован bootstrap, при уменьшении разрешения до 992px на экране выходит кнопка с навигацией. 
 ``` html
 <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-green">
@@ -39,7 +38,7 @@
     </header>
 
 ```
-
+![logo](img/nav-button-md.PNG)
 
 ### Сверстал этот сайт.
 Чтобы был.
