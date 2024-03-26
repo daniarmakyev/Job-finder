@@ -41,10 +41,7 @@
 ```
 ![logo](img/nav-button-md.PNG)
 
-## Команда проекта
 
-
-- [Макыев Данияр] — Front-End developer
 
 ## Источники
 [Figma](https://www.figma.com/file/4EwMYMyBDC4GzpM2D5LU88/product?type=design&node-id=1202-2&mode=design&t=HzIVnnn9dINidhz8-0)
