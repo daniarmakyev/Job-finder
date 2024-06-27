@@ -8,7 +8,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Bootstrap
-В headere был использован bootstrap, при уменьшении разрешения до 992px на экране выходит кнопка с навигацией. 
 ``` html
 <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-green">
